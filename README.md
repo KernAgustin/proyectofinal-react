@@ -16,7 +16,7 @@
 
 Para instalar el proyecto con npm:
 ```
-  git clone 
+  git clone https://github.com/KernAgustin/proyectofinal-react
   npm install
   npm start
 ```
