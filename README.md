@@ -1,5 +1,5 @@
 
-# Roco Macetas - App React
+# Rococo Macetas - App React
 
 **Rococo Macetas** es un ecommerse, el cual fue realizado con **react**. El mismo cuenta con dos distintas **categorias** de productos, pudiendo acceder a ellas por diferentes rutas. Por otro lado, tambien cuenta con un apartado donde esta el **carrito**, en donde se muestran todos los productos seleccionados. y por ultimo, un **checkout** en donde se validan los datos de cliente para finalizar la compra.
 
